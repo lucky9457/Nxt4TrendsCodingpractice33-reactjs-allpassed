@@ -1,0 +1,23 @@
+.buttonCategory {
+  border: none;
+  background-color: none;
+  background: none;
+  margin-bottom: 10px;
+  font-family: Roboto;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: start;
+  padding: 10px;
+}
+
+.listEleCategory {
+  list-style: none;
+  cursor: pointer;
+}
+.activetab {
+  color: white;
+  background-color: #0967d2;
+  width: 100%;
+  border-radius: 5px;
+  transition: ease-in-out 0.2s;
+}

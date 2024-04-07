@@ -1,0 +1,21 @@
+.imgrating {
+  width: 60%;
+  margin-bottom: 10px;
+}
+.ratingCont {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.ratingupBtn {
+  margin-right: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.activeratingTab {
+  color: #0967d2;
+}
