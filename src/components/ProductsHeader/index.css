@@ -1,6 +1,6 @@
 .products-header {
   display: flex;
-
+  justify-content: space-between;
   align-items: center;
   margin-top: 24px;
   flex-wrap: wrap;
@@ -58,30 +58,4 @@
   color: #7e858e;
   font-family: 'Roboto';
   font-size: 14px;
-}
-.filterAndProductsCont {
-  display: flex;
-}
-.searchCont {
-  display: flex;
-  align-items: center;
-  padding: 10px;
-  border: solid 0.5px grey;
-  border-radius: 10px;
-  width: 25%;
-  margin-right: 5%;
-}
-.search {
-  border: none;
-  width: 120%;
-  outline: none;
-}
-.searchicon {
-  border: none;
-}
-.ProductHeadandFilterCont {
-  display: flex;
-  width: 70%;
-  align-items: center;
-  justify-content: space-between;
 }
